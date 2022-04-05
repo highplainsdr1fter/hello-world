@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-### Here to leaarn
+### Here to learn
